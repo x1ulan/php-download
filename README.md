@@ -1,5 +1,5 @@
 # Download
-> `git clone https://github.com/x1ulan/phpdownload.git`
+> `git clone https://github.com/x1ulan/php-download.git`
 
 ---
 

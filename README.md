@@ -13,3 +13,8 @@ build a local server on <port>
 > `<url>:<port>?file=<filename>`
 go to your url and use `?file` to download `filename`
 
+---
+
+### update
+
+use `scp` command 
